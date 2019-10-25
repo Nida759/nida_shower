@@ -1,0 +1,11 @@
+[package]
+name = "nida_crates"
+version = "0.1.0"
+authors = ["Nida Khan <knida5637@gmail.com>"]
+edition = "2018"
+description = "My second library"
+license = "MIT"
+repository = "https://github.com/Nida759/nida_shower"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
